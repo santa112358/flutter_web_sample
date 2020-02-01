@@ -1,7 +1,6 @@
 # flutter_web_sample
-
-A new Flutter project.
-
+This is practice to use flutter for web.
+Sample of flower shop Home Page
 ## Getting Started
 
 This project is a starting point for a Flutter application.
